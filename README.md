@@ -1,4 +1,4 @@
 # Operating-system-
 
-Name: Rohit Kumar
-Roll no: 22CSU149
+Name: Kunal Sharma
+Roll no: 22CSU271
